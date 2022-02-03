@@ -9,6 +9,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.16.4",
+    "inquirer": "^8.2.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StaishaKnight/note-taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/StaishaKnight/note-taker/issues"
+  },
+  "homepage": "https://github.com/StaishaKnight/note-taker#readme"
 }
